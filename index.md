@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yukun Zhang's CV
 ---
 # Yukun Zhang
 Software engineering learner, A master of NUAA and SWU RISE.
 
 <div id="webaddress">
 <a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
@@ -36,7 +35,7 @@ Nanjing University of Aeronautics and Astronautics,
 
 ## Project
 
-
+* CoCoME Demo based on microservice architecture with Spring Cloud 
 
 
 <!-- ### Footer
