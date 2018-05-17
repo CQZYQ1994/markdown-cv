@@ -14,9 +14,10 @@ Software engineering learner, A master of NUAA and SWU RISE.
 
 
 ### Specialized in
+- Software Engineering, UML and Model Driven Engineering(MDE)
 - Base Knowledge of Compuster senice, including operator system, data struct, computer network, database and so on.
 - Golang&Linux&Docker tool chain
-- Software Engineering, UML and Model Driven Engineering(MDE)
+
 
 ### Research interests
 
