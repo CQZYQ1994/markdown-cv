@@ -7,6 +7,7 @@ Software engineering learner, A master of NUAA and SWU RISE.
 
 <div id="webaddress">
 <a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
+| 1001, 25 building, Sou
 </div>
 
 
@@ -24,11 +25,13 @@ Software engineering learner, A master of NUAA and SWU RISE.
 
 ## Education
 
-`2013-2017`
-Xi\`an University of Posts & Telecommunications, Computer Science and Technology
+`2017 - now` Nanjing University of Aeronautics and Astronautics 
+M.A , in Computer Technology 
 
-`2017 - now`
-Nanjing University of Aeronautics and Astronautics, 
+`2013-2017` Xi\`an University of Posts & Telecommunications 
+B.A in Computer Science and Technology, concentartion in software development 
+
+
 
 
 
