@@ -27,12 +27,12 @@ Software engineering learner, A master of NUAA and SWU RISE.
 `2017 - now`
 __Nanjing University of Aeronautics and Astronautics, China__
 
-- M.A , in Computer Technology
+- M.A, in Computer Technology
 
 `2013 - 2017`
 __Xi\`an University of Posts & Telecommunications, China__
 
-- B.A in Computer Science and Technology, concentration in software development 
+- B.A, in Computer Science and Technology, concentration in software development 
 
 ## Course
 
