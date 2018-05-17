@@ -42,8 +42,8 @@ __Xi\`an University of Posts & Telecommunications, China__
 
 ## Project
 
-CoCoME Demo based on microservice architecture with Spring Cloud 
-  *
+* CoCoME Demo based on microservice architecture with Spring Cloud 
+
   
 
 ## Service and Activities 
