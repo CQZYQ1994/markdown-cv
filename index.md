@@ -36,12 +36,18 @@ __Xi\`an University of Posts & Telecommunications, China__
 
 
 
-
-
 ## Project
 
 * CoCoME Demo based on microservice architecture with Spring Cloud 
 
+## Service and Activities 
+
+* SETSS 2018 Committee, College of Computer & Information Science, Southwest University
+* SETSS 2017 Committee, College of Computer & Information Science, Southwest University
+* Vice president of Network Technology Association, College of Computer Science, Xi\`an University of Posts & Telecommunications, 2014 - 2015 
+
+## Languages 
+CET 6 
 
 <!-- ### Footer
 
