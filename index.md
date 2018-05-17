@@ -7,7 +7,7 @@ Software engineering learner, A master of NUAA and SWU RISE.
 
 <div id="webaddress">
 <a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
-| 1001, 25 building, Sou
+| 1001, 25 building, Southwest University
 </div>
 
 
@@ -24,13 +24,15 @@ Software engineering learner, A master of NUAA and SWU RISE.
 * Tool for supporting Microservice Development 
 
 ## Education
+`2017 - now`
+__Nanjing University of Aeronautics and Astronautics, China__
 
-`2017 - now` Nanjing University of Aeronautics and Astronautics 
-M.A , in Computer Technology 
+- M.A , in Computer Technology
 
-`2013-2017` Xi\`an University of Posts & Telecommunications 
-B.A in Computer Science and Technology, concentartion in software development 
+`2013 - 2017`
+__Xi\`an University of Posts & Telecommunications, China__
 
+- B.A in Computer Science and Technology, concentartion in software development 
 
 
 
