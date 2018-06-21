@@ -44,6 +44,10 @@ __Xi\`an University of Posts & Telecommunications, China__
 
 * CoCoME Demo based on microservice architecture with Spring Cloud 
 
+## Competition
+
+* 4th Ali middleware competition rematch qualification
+
   
 
 ## Service and Activities 
