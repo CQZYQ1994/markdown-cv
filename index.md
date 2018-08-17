@@ -52,6 +52,7 @@ __Xi\`an University of Posts & Telecommunications, China__
 
 ## Service and Activities 
 
+* Core Member of [GCTT](https://github.com/studygolang/GCTT)
 * SETSS 2018 Committee, College of Computer & Information Science, Southwest University
 * SETSS 2017 Committee, College of Computer & Information Science, Southwest University
 * Vice president of Network Technology Association, College of Computer Science, Xi\`an University of Posts & Telecommunications, 2014 - 2015 
