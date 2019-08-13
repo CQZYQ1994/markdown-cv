@@ -6,7 +6,7 @@ title: 张煜堃 - 简历
 
 <div id="webaddress">
 <a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
-| 电话： 18829290080
+| 86-18829290080
 </div>
 
 
@@ -19,25 +19,24 @@ title: 张煜堃 - 简历
 
 ## 教育经历
 `2017 - now`
-__南京航空航天大学_
+__南京航空航天大学__
 
-- 计算机技术硕士
+- 计算机技术 硕士
 
 `2013 - 2017`
 __西安邮电大学__
 
-- 计算机科学与技术
+- 计算机科学与技术 学士
 
 ## 项目
 
-* 基于 Spring Cloud 的 CoCoME 微服务化项目，CoCoME 为一个小型超市的需求文档，该项目从需求文档出发，采用 UML 模型驱动的开发过程，基于 Spring Cloud 微服务框架进行微服务化实践，验证模型驱动方法在微服务软件开发方法中的应用方式。
+* 基于 Spring Cloud 的 CoCoME 微服务化项目，CoCoME 为一个小型超市的需求文档，该项目从 CoCoME 需求文档出发，采用 UML 模型驱动的开发过程，基于 Spring Cloud 微服务框架进行微服务化实践，验证模型驱动方法在微服务软件开发中应用方式。
+* 基于日志分析的微服务划分方案以及工具（开发中）
 
 ## 活动
-* [GCTT](https://github.com/studygolang/GCTT) 项目核心成员
+* [GCTT Go中文网翻译组](https://github.com/studygolang/GCTT) 项目核心成员
 * 2018 年阿里中间件大赛复赛资格
 * 2018/2019 可信软件工程国际会议组织者 
-
-
 
 ## 语言
 CET 6 
