@@ -6,7 +6,7 @@ title: 张煜堃 - 简历
 
 <div id="webaddress">
 <a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
-| 电话: 18829290080
+| 电话： 18829290080
 </div>
 
 
@@ -30,7 +30,7 @@ __西安邮电大学__
 
 ## 项目
 
-* 基于 Spring Cloud 的 CoCoME 微服务化项目， CoCoME 为一个
+* 基于 Spring Cloud 的 CoCoME 微服务化项目，CoCoME 为一个小型超市的需求文档，该项目从需求文档出发，采用 UML 模型驱动的开发过程，基于 Spring Cloud 微服务框架进行微服务化实践，验证模型驱动方法在微服务软件开发方法中的应用方式。
 
 ## 活动
 * [GCTT](https://github.com/studygolang/GCTT) 项目核心成员
@@ -45,4 +45,3 @@ CET 6
 <!-- ### Footer
 
 更新时间: 8 月 2019 -->
-
