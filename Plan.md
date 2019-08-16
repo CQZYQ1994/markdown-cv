@@ -25,7 +25,8 @@ Refer https://cloud.tencent.com/developer/article/1196724
 |算法和数据结构|力扣先完成中级探索，然后刷题扩展知识量||
 |数据库|刷[知识库](https://github.com/CyC2018/CS-Notes)和牛客的题目||
 |操作系统以及网络|刷[知识库](https://github.com/CyC2018/CS-Notes)和牛客的题目||
+|分布式系统的知识| raft 协议，看书《分布式系统概念与设计》，做题||
 |项目|时间不足，在做 mit 6.824 的 raft 协议||
-|其他|刷题||
+|其他|计算机的知识范围很广，刷题时遇到什么新的知识点记下来就行||
 
 
