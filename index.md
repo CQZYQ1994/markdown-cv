@@ -1,66 +1,46 @@
 ---
 layout: cv
-title: Yukun Zhang's CV
+title: 张煜堃 - 简历
 ---
-# Yukun Zhang
-Software engineering learner, A master of NUAA and SWU RISE.
+# 张煜堃
 
 <div id="webaddress">
 <a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
-| 1001, 25 building, Southwest University
+| 86-18829290080
 </div>
 
 
+## 技能
 
-### Specialized in
-- Software Engineering, UML and Model Driven Engineering(MDE)
-- Base Knowledge of computer science, including operator system, data structure, computer network, database and so on.
-- Golang&Linux&Docker tool chain
+- 熟悉 Golang 语言，并对 Java 和 PHP 语言有相关应用经验
+- 了解数据结构，算法以及计算机科学相关的基础
+- 熟悉 linux 环境，掌握 Linux 下的常用命令以及开发调试方法，掌握 Docker 以及 Git 版本工具
+- 了解微服务架构以及相应模式 
 
-
-### Research interests
-
-* Application of MDE in Microservices
-* Tool for supporting Microservice Development 
-
-## Education
+## 教育经历
 `2017 - now`
-__Nanjing University of Aeronautics and Astronautics, China__
+__南京航空航天大学__
 
-- M.A, in Computer Technology
+- 计算机技术 硕士
 
 `2013 - 2017`
-__Xi\`an University of Posts & Telecommunications, China__
+__西安邮电大学__
 
-- B.A, in Computer Science and Technology, concentration in software development 
+- 计算机科学与技术 学士
 
-## Course
+## 项目
 
-* Software Modelling & Design by Prof. Zhiming Liu
-* Introduction to Model Checking by Prof. Taolue Chen, August 2017
+* 基于 Spring Cloud 的 CoCoME 微服务化项目，CoCoME 为一个小型超市的需求文档，该项目从 CoCoME 需求文档出发，采用 UML 模型驱动的开发过程，基于 Spring Cloud 微服务框架进行微服务化实践，验证模型驱动方法在微服务软件开发中应用方式
+* 基于日志分析的微服务划分方案以及工具（开发中）
 
+## 活动
+* [GCTT Go中文网翻译组](https://github.com/studygolang/GCTT) 项目核心成员
+* 2018 年阿里中间件大赛复赛资格
+* 2018/2019 可信软件工程国际会议组织者 
 
-## Project
-
-* CoCoME Demo based on microservice architecture with Spring Cloud 
-
-## Competition
-
-* 4th Ali middleware competition rematch qualification
-
-  
-
-## Service and Activities 
-
-* Core Member of [GCTT](https://github.com/studygolang/GCTT)
-* SETSS 2018 Committee, College of Computer & Information Science, Southwest University
-* SETSS 2017 Committee, College of Computer & Information Science, Southwest University
-* Vice president of Network Technology Association, College of Computer Science, Xi\`an University of Posts & Telecommunications, 2014 - 2015 
-
-## Languages 
+## 语言
 CET 6 
 
 <!-- ### Footer
 
-Last updated: May 2018 -->
-
+更新时间: 8 月 2019 -->
