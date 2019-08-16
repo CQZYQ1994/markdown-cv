@@ -3,6 +3,7 @@
 
 中间件开发 /  后台开发 
 
+[CV ](https://github.com/magichan/markdown-cv/blob/master/index.md) / [CV PDF](https://github.com/magichan/markdown-cv/blob/master/%E5%BC%A0%E7%85%9C%E5%A0%83%20-%20%E7%AE%80%E5%8E%86%20_%20CV.pdf)
 # 就职公司范围
 
 地点不限制，广州和深圳最有趣，成都是最合理的安排，但有更好的公司可以不去成都。
@@ -33,6 +34,6 @@ Refer https://cloud.tencent.com/developer/article/1196724
 
 # 问题总结
 
-1. 一线公司（阿里，腾讯，头条，网易等）哪些部门需要 Golang 的后台或者中间件开发
-2. 我对 Golang 的基本语言特性已经有了认识，但期望能够深挖一下，有什么书值得推荐
-3. 计划中各个子项的优先级分类
+1. 一线公司（阿里，腾讯，头条，网易等）哪些部门需要 Golang 的后台或者中间件开发？
+2. 我对 Golang 的基本语言特性已经有了认识，但期望能够深挖一下，有什么书值得推荐？
+3. 计划中各个子项的优先级分类？
