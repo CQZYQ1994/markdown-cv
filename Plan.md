@@ -4,7 +4,9 @@
 中间件开发 /  后台开发 
 
 [CV ](https://github.com/magichan/markdown-cv/blob/master/index.md) / [CV PDF](https://github.com/magichan/markdown-cv/blob/master/%E5%BC%A0%E7%85%9C%E5%A0%83%20-%20%E7%AE%80%E5%8E%86%20_%20CV.pdf)
-# 就职公司范围
+# 可供选择公司范围
+
+> 不考虑是否能被录用 \_(:з」∠)\_
 
 地点不限制，广州和深圳最有趣，成都是最合理的安排，但有更好的公司可以不去成都。
 
@@ -14,7 +16,7 @@
 * 七牛 
 * 期望补充
 
-同时也有些大公司用 Golang 支持开发，组长是否有推荐的？
+同时也有些大公司用 Golang 支持开发，组长是否有推荐的一些部门？
 Refer https://cloud.tencent.com/developer/article/1196724
 
 # 计划
