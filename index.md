@@ -1,30 +1,30 @@
 ---
 layout: cv
-title: 张煜堃 - 简历
+title: 张云谦 - 简历
 ---
-# 张煜堃
+# 张云谦
 
 <div id="webaddress">
-<a href="magiczhangyukun@qq.com">magiczhangyukun@qq.com</a>
-| 86-18829290080
+<a href="zhangyunqian1994@qq.com">zhangyunqian1994@qq.com</a>
+| 13527421248
 </div>
 
 
 ## 技能
 
-- 熟悉 Golang 语言，并对 Java 和 PHP 语言有相关应用经验
+- 熟悉 Java 语言, C语言
 - 了解数据结构，算法以及计算机科学相关的基础
 - 熟悉 linux 环境，掌握 Linux 下的常用命令以及开发调试方法，掌握 Docker 以及 Git 版本工具
 - 了解微服务架构以及相应模式 
 
 ## 教育经历
-`2017 - now`
-__南京航空航天大学__
+`2017.9 - now`
+__西南大学__
 
-- 计算机技术 硕士
+- 软件工程 硕士研究生
 
-`2013 - 2017`
-__西安邮电大学__
+`2013.9 - 2017.6`
+__西南大学__
 
 - 计算机科学与技术 学士
 
